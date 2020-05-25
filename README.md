@@ -9,16 +9,18 @@
 ## Usage
 
 **Option 1**
-- Select some layers
-- Run the plugin by going to `Plugins > Export Flat SVGs`
-- Choose a desitnation folder
-- SVGs will be generated for the selected layers
+1. Select some layers
+2. Run the plugin by going to `Plugins > Export Flat SVGs`
+3. Choose a desitnation folder
+4. SVGs will be generated for the selected layers
 
 **Option 2**
-- Don't select any layers. Any layers marked for export with a SVG type will be exported
-- Run the plugin by going to `Plugins > Export Flat SVGs`
-- Choose a desitnation folder
-- SVGs will be generated for those specific layers marked for export
+1. Don't select any layers. Any layers marked for export with a SVG type will be exported
+2. Run the plugin by going to `Plugins > Export Flat SVGs`
+3. Choose a desitnation folder
+4. SVGs will be generated for those specific layers marked for export
+
+### Other plugins
 
 - [🐈 Truncat...](https://github.com/KevinGutowski/Truncat)
   - Easily add text truncation to text objects and symbols
