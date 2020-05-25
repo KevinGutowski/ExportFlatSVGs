@@ -1,5 +1,7 @@
 # ExportFlatSVGs
 
+Flatten text within SVGs on export.
+
 ## Installation
 
 - [Download](../../releases/latest/download/exportflatsvgs.sketchplugin.zip) the latest release of the plugin
