@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Export Flat SVGs",
+      "identifier": "exportflatsvgs.my-command-identifier",
+      "script": "./my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "ExportFlatSVGs",
+    "items": [
+      "exportflatsvgs.my-command-identifier"
+    ],
+    "isRoot" : true
+  }
+}
