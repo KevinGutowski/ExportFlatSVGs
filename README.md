@@ -30,7 +30,7 @@ Flatten text within SVGs on export.
   - Easily preview your mocks in greyscale
 - [📌 BetterTypePanel](https://github.com/KevinGutowski/betterTypePanel)
   - A quick-access window to control OpenType properties
-- [🦁 A Lion](https://github.com/KevinGutowski/Mask-Selection)
+- [🦁 A Lion](https://github.com/kevinGutowski/A-Lion)
   - Align your layers to a key layer
 - [🔎 Find Dirty Styles](https://github.com/KevinGutowski/FindDirtyStyles)
   - Find those pesky styles that are out of sync!
